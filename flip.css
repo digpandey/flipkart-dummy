@@ -1,0 +1,98 @@
+a{
+	text-decoration:none; 
+	color:white;
+}
+a:hover{
+	
+	text-decoration:none; 
+}
+
+.pl{
+	color:yellow;
+	font-size:12px;
+	    line-height: 1;
+}
+#fl{
+	font-size:15px;
+	    line-height: 1;
+}
+.bt{
+	color:blue;
+	background-color:white;
+	
+}
+.bt:hover{
+	color:blue;
+	background-color:white;
+	
+}
+.sp{
+	color:white;
+}
+.to{
+	color:black;
+	height:50px;
+	background-color:white;
+	border-color:white;
+}
+.to:hover{
+	color:blue;
+	height:50px;
+	background-color:white;
+	border-color:white;
+}
+.cd{
+	border:none;;
+}
+.tx{
+	font-size:12px;
+	margin-bottom:10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+/*button view all*/
+
+.vl{
+  background-color: blue;
+  color:white;
+  float: right;
+  text-align:center;
+  margin-top:-40px;
+
+}
+
+.wd{
+	margin-top:-75px;
+}
+.d3{
+	height:180px;
+	background-size:cover;
+	width:150px;
+}
+.bl{
+	color:green;
+}
+.bl:hover{
+	color:blue;
+}
+
+
+/*here is headphones  and spearkers button*/
+
+.hvl{
+  background-color: blue;
+  color:white;
+  float: right;
+  text-align:center;
+  margin-top:-40px;
+
+}
+/*here is footer*/
+                             
+.btm{
+	background-color:darkgrey;
+	width: 100%;
+	word-spacing:20px;
+}
